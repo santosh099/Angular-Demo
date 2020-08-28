@@ -1,0 +1,39 @@
+div {
+    text-align: center;
+}
+
+ion-tab-button {
+    background-color: green;
+}
+
+ion-label {
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.selected {
+    color: black;
+}
+
+.tab {
+    margin-top: -65px;
+}
+
+input {
+    background:url(/assets/search-24px.svg) no-repeat right center;
+    padding-left: 17px;
+    margin-top: 100px;
+    height: 40px;
+    width: 350px;
+    border-radius: 15px;
+    outline: none !important;
+}
+
+.closeIcon {
+    text-align: right;
+}
+
+li {
+    text-align: left;
+}
